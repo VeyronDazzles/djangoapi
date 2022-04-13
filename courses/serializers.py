@@ -1,5 +1,5 @@
 #This is a Serializer
-#Added Fields
+#Added Fields and model
 
 from rest_framework import serializers
 from .models import course
