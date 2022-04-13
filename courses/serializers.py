@@ -1,3 +1,6 @@
+#This is a Serializer
+#Added Fields
+
 from rest_framework import serializers
 from .models import course
 
